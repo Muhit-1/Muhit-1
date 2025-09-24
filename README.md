@@ -4,8 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhit%20Rahman&fontSize=40&desc=Junior%20software%20engineer%20and%20fullstack%20developer&descSize=20&fontAlignY=36&descAlignY=61" />
 </p>
 
-
-![Profile views](https://komarev.com/ghpvc/?username=Muhit-1&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhit-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
 <!-- Typing Animation -->
