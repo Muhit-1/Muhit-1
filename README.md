@@ -48,6 +48,30 @@
   </a>
 </p>
 
+---
+
+## <h3 align="left">Skills</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" height="28" alt="Kotlin" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="28" alt="Android" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="28" alt="Blender" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="28" alt="Unity" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px">
+</div>
+
+
+
 
 ## 🚀 Featured Projects  
 
