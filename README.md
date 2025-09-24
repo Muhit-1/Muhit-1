@@ -84,6 +84,18 @@
 
 ---
 
+
+## <h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhit-1&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Muhit-1&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Muhit-1&theme=buefy&cache_seconds=1800&border_radius=7&show_owner=false&hide_border=false" alt="GitHub repo-card Card" />
+</p>
+
 ## 🚀 Featured Projects  
 
 <p align="center">
@@ -107,25 +119,5 @@
 ---
 
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true&background=0D1117&stroke=61dafb" />
-</p>
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/yourprofile/"><img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=#d16c06"/></a>
-  <a href="https://kaggle.com/yourprofile"><img src="https://img.shields.io/badge/Kaggle-035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/yourid"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-</p>
-
----
 
 ⭐ **"Do better. Be better. Stay better."** ⭐
