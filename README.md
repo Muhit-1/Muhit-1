@@ -1,7 +1,12 @@
 <!-- Banner -->
-<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2A43,50:00C2FF,100:00E5FF&text=Muhit%20Rahman&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=Junior%20Software%20Engineer%20%26%20Fullstack%20Developer&descAlign=50&descAlignY=60" alt="header"/>
+  <!-- Name -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Muhit%20Rahman&fontSize=50&fontAlignY=45&animation=fadeIn" alt="name" />
+</p>
+
+<p align="center">
+  <!-- Subtitle smaller -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=80&color=gradient&text=Junior%20software%20engineer%20and%20fullstack%20developer&fontSize=35&fontAlignY=45&animation=fadeIn" alt="subtitle" />
 </p>
 
 
