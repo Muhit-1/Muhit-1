@@ -1,7 +1,8 @@
 <!-- Banner -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhit%20Rahman-nl-%20Junior%20software%20engineer%20and%20fullstack%20developer&fontSize=35&fontAlignY=48&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Muhit%20Rahman&fontSize=50&fontAlignY=45&animation=fadeIn" alt="name" />
+  <br>
+  <span style="font-size:18px; color:#00FFFF;">Junior software engineer and fullstack developer</span>
 </p>
 
 
