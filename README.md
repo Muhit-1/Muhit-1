@@ -13,8 +13,10 @@
 </p>
 
 
+---
+
 ## 👨‍💻 About Me  
-🎓 CSE Student passionate about **Machine Learning, Data Mining, IoT Systems, and Web Development**.  
+🎓 CSE Student passionate about **Fullstack Development, Data Mining, IoT Systems, and Software Engineering**.  
 💡 I enjoy solving real-world problems using **software engineering principles** and exploring **deep learning applications**.  
 🔭 Currently working on:  
 - 📊 **Data Mining Projects** (Regression, Classification, Clustering)  
@@ -25,6 +27,26 @@
 ⚡ Fun fact: I love building things that make life easier and smarter.  
 
 ---
+
+## 🔗 Connect with Me  
+
+<p align="left">
+  <a href="https://github.com/Muhit-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="mailto:senanovi908@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://codeforces.com/profile/cookiemonster908" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.linkedin.com/in/muhit-rahman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
 
 
 ## 🚀 Featured Projects  
