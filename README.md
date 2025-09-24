@@ -1,7 +1,7 @@
 <!-- Name -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhit%20Rahman&fontSize=40&desc=Junior%20software%20engineer%20and%20fullstack%20developer&descSize=25&fontAlignY=36&descAlignY=61" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhit%20Rahman&fontSize=40&desc=Junior%20software%20engineer%20and%20fullstack%20developer&descSize=20&fontAlignY=36&descAlignY=61" />
 </p>
 
 
