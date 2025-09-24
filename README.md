@@ -50,8 +50,7 @@
 
 ---
 
-## <h3 align="center">Skills</h3>
-
+## Skills
 <div align="center">
 
 ### 💻 Programming
