@@ -95,29 +95,25 @@
 
 ---
 
-
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/yourusername/House-Rent-Prediction">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=House-Rent-Prediction&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="https://github.com/Muhit-1/House-Rent-Prediction">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=House-Rent-Prediction&theme=blue-green&border_radius=10" />
   </a>
-  <a href="https://github.com/yourusername/Heart-Failure-Prediction">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Heart-Failure-Prediction&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="https://github.com/Muhit-1/Heart-Failure-Prediction">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Heart-Failure-Prediction&theme=blue-green&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/IoT-Auto-Irrigation">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=IoT-Auto-Irrigation&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="https://github.com/Muhit-1/IoT-Auto-Irrigation">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=IoT-Auto-Irrigation&theme=blue-green&border_radius=10" />
   </a>
-  <a href="https://github.com/yourusername/Music-Website">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Music-Website&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="https://github.com/Muhit-1/Music-Website">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Music-Website&theme=blue-green&border_radius=10" />
   </a>
 </p>
-
----
-
 
 
 ⭐ **"Do better. Be better. Stay better."** ⭐
