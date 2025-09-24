@@ -85,16 +85,16 @@
 ---
 
 
-## <h3 align="center">GitHub Stats</h3>
+## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhit-1&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Muhit-1&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Muhit-1&theme=buefy&cache_seconds=1800&border_radius=7&show_owner=false&hide_border=false" alt="GitHub repo-card Card" />
-</p>
+
+---
+
 
 ## 🚀 Featured Projects  
 
