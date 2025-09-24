@@ -5,6 +5,9 @@
 </p>
 
 
+![Profile views](https://komarev.com/ghpvc/?username=Muhit-1&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Muhit+👋;Computer+Science+%26+Engineering+Student;+Fullstack+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Tech+🚀)](https://git.io/typing-svg)
 
