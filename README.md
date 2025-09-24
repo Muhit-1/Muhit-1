@@ -1,7 +1,11 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Muhit%20Rahman%0A<small>Junior%20software%20engineer%20and%20fullstack%20developer</small>&fontSize=60&fontAlignY=38&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Muhit%20Rahman&fontSize=70&fontAlignY=40&animation=fadeIn" alt="banner" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=gradient&text=Junior%20software%20engineer%20and%20fullstack%20developer&fontSize=25&fontAlignY=35&animation=fadeIn" alt="subtitle" />
 </p>
 
 
