@@ -50,8 +50,9 @@
 
 ---
 
-## Skills
+## ⚡ Skills
 <div align="center">
+  
 ### 💻 Programming
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
