@@ -1,7 +1,6 @@
-<!-- Name -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhit%20Rahman&fontSize=40&desc=Junior%20software%20engineer%20and%20fullstack%20developer&descSize=25&fontAlignY=49&descAlignY=69" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=ff512f,dd2476&text=Muhit%20Rahman&fontSize=40&desc=Junior%20software%20engineer%20and%20fullstack%20developer&descSize=25&fontAlignY=49&descAlignY=69" />
 </p>
 
 <!-- Typing Animation -->
