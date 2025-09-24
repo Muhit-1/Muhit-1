@@ -30,12 +30,9 @@
 
 ## 🔗 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Muhit-1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
   </a>
   <a href="mailto:senanovi908@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
