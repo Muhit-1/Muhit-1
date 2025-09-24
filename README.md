@@ -1,7 +1,9 @@
 <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Muhit%20Rahman-nl-%20Junior%20software%20engineer%20and%20fullstack%20developer&reversal=false&fontAlignY=48&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Muhit%20Rahman%0A<small>Junior%20software%20engineer%20and%20fullstack%20developer</small>&fontSize=60&fontAlignY=38&animation=fadeIn" alt="banner" />
 </p>
+
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Muhit+👋;Computer+Science+%26+Engineering+Student;+%7C+ML%2FDL+%7C+Web+Dev;IoT+%7C+Software+Engineering+Enthusiast;Always+Learning+New+Tech+🚀)](https://git.io/typing-svg)
