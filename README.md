@@ -88,7 +88,7 @@
 ## GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhit-1&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Muhit-1&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhit-1&theme=react" alt="GitHub streak Card" />
 </p>
 
