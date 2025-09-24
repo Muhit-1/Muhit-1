@@ -1,8 +1,12 @@
-<!-- Banner -->
+<!-- Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2A43,50:00C2FF,100:00E5FF&text=Muhit%20Rahman&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=Junior%20Software%20Engineer%20%26%20Fullstack%20Developer&descAlign=50&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Muhit%20Rahman&reversal=false&fontAlignY=50&fontSize=45&animation=fadeIn" />
 </p>
 
+<!-- Title -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Junior%20software%20engineer%20and%20fullstack%20developer&reversal=false&fontAlignY=40&fontSize=25&animation=fadeIn" />
+</p>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Muhit+👋;Computer+Science+%26+Engineering+Student;+%7C+ML%2FDL+%7C+Web+Dev;IoT+%7C+Software+Engineering+Enthusiast;Always+Learning+New+Tech+🚀)](https://git.io/typing-svg)
