@@ -1,10 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Muhit%20Rahman&fontSize=50&fontAlignY=45&animation=fadeIn" alt="name" />
-  <br>
-  <span style="font-size:18px; color:#00FFFF;">Junior software engineer and fullstack developer</span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2A43,50:00C2FF,100:00E5FF&text=Muhit%20Rahman&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=Junior%20Software%20Engineer%20%26%20Fullstack%20Developer&descAlign=50&descAlignY=60" alt="header" />
 </p>
-
 
 
 <!-- Typing Animation -->
