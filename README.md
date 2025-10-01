@@ -97,19 +97,25 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Muhit-1/dhaka-bus-navigator">
+    <a href="https://github.com/Muhit-1/dhaka-bus-navigator">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Dhaka-Bus-Navigator&theme=blue-green&border_radius=10" />
   </a>
+    <a href="https://github.com/Muhit-1/Service-Squad">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Service-Squad&theme=blue-green&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Muhit-1/Task-Manager-app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Task-Manager-app&theme=blue-green&border_radius=10" />
+  </a>
+
   <a href="https://github.com/Muhit-1/Music-Player-App">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Music-Player-App&theme=blue-green&border_radius=10" />
   </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/Muhit-1/Service-Squad">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Service-Squad&theme=blue-green&border_radius=10" />
-  </a>
-</p>
+
 
 
 
