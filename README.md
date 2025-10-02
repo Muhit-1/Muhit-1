@@ -106,8 +106,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Muhit-1/Task-Manager-app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=Task-Manager-app&theme=blue-green&border_radius=10" />
+<a href="https://github.com/Muhit-1/KeyQuest">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhit-1&repo=KeyQuest&theme=blue-green&border_radius=10" />
   </a>
 
   <a href="https://github.com/Muhit-1/Music-Player-App">
